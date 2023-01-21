@@ -9,10 +9,10 @@ City names with spaces in them must be put in quotations i.e. 'los angeles'
 
 Units accepted are:
   
--s --standard
+-s or --standard
   
--i --imperial
+-i or --imperial
   
--m --metric
+-m or --metric
 
 ![](https://github.com/l4lilul3lo/weather-cli-app/blob/main/weather-cli.gif)
