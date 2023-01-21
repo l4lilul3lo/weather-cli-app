@@ -3,7 +3,10 @@ A simple weather cli app
 
 Clone this repo and open in your favorite editor for better unicode support (hopefully).
 
-Run node app.js cityName units
+## getting started
+
+Run: *npm install* in the root directory.
+Run: *node app.js (cityName) (units)*
 
 City names with spaces in them must be put in quotations i.e. 'los angeles'
 
