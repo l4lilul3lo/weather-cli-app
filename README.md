@@ -3,7 +3,7 @@ A simple weather cli app
 
 Clone this repo and open in your favorite editor for better unicode support (hopefully).
 
-Run node app.js <city name> <units>
+Run node app.js cityName units
 
 City names with spaces in them must be put in quotations i.e. 'los angeles'
 
