@@ -7,9 +7,12 @@ Run node app.js <city name> <units>
 
 City names with spaces in them must be put in quotations i.e. 'los angeles'
 
-Units accepted are: 
+Units accepted are:
+  
 -s --standard
+  
 -i --imperial
+  
 -m --metric
 
 ![](https://github.com/l4lilul3lo/weather-cli-app/blob/main/weather-cli.gif)
